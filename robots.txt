@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lauraitalia55-beep.github.io/PORTFOLIO/sitemap.xml
